@@ -1,3 +1,4 @@
+<img src="omi.jpg" alt="Girl in a jacket" width="500" height="600">
 # 💫About Me :
 I'm currently working at Bots,game,webdevelopment
 
