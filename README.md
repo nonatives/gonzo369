@@ -1,4 +1,5 @@
-<img src="omi.jpg" alt="Girl in a jacket" width="400" height="300">
+<img src="omi.jpg" alt="image failed" width="400" height="300">
+<img src="premium_photo-1682308256034-dda4b204f4d2.jpeg" alt="image failed " width="400" height="300">
 # 💫About Me :
 I'm currently working at Bots,game,webdevelopment
 
